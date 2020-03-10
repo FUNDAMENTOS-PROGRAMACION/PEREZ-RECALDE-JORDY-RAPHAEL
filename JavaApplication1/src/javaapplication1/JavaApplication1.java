@@ -10,6 +10,13 @@ package javaapplication1;
  * @author Raphael
  */
 public class JavaApplication1 {
+int numeroEntero = 0;
+double numeroDouble = 0.0;
+char letras = 'u';
+String cadena ="hola mundo";
+boolean decsion = false;
+valorBoo1= true;
+boolean decsion1 = false;
 
     /**
      * @param args the command line arguments
