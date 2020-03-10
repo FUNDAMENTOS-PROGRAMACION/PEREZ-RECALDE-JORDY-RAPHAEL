@@ -26,7 +26,7 @@ System.out.println("Rapahel");
     public static void main(String[] args) {
         imprimirNombre();
         sumar2Nummeros(3 ,5);
-
+        System.out.println(  sumar2Nummeros(3 ,5));   
         // TODO code application logic here
     }
     public static int sumar2Nummeros (int num1 , int num2){
